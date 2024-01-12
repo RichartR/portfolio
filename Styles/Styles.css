@@ -1,6 +1,6 @@
 :root {
     --background-headfot: rgb(169, 93, 93);
-    --background-body: lightgray;
+    --background-body: rgb(169, 93, 93);
     --background-section: rgb(255, 255, 255);
     --border-transparent: 1px solid transparent;
 }
